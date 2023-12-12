@@ -1,7 +1,7 @@
 # -UNP-MachineLearning-CreditRisk-Classification
 The data is related to South German Credit.Here is the task is to build a classification model to Predict the Credit risk of customers
 
-#Variables:
+#Variables in dataset:
 Column name: laufkont
 Variable name: status
 Content: status of the debtor's checking account with the bank (categorical)
